@@ -1,4 +1,4 @@
-# personal_projects
+# personalProjects
 A petite portfolio of a portion of the publically publishable parts of my previous and persisting projects.
 
 ## thesis
