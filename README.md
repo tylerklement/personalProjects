@@ -9,3 +9,9 @@ This directory contains the previously published (public) research papers releva
 
 ## facebook_data_gui
 This directory contains my work on a personal project of a GUI for displaying the downloadable Facebook data information in an easy and navigable manner. To download your personal information, see your Facebook settings.
+
+## demoLinearRegression
+This is a demonstration of linear regression which I coded, based on an assignment from Andrew Ng.
+
+## demoLogisticRegression
+This is a demonstration of logistic regression which I compiled from the code at the yhat blog. Using the included packages, it achieves an approach similar to R. It demonstrates how one can quickly and easily perform logistic regression with Python using these packages.
