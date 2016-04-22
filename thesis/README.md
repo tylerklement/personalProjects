@@ -1,2 +1,2 @@
 # (under construction)
-This work is being done in Lua with Torch, and in Java with WebQA.
+This work is being done in Python with Theano and Keras, and in Java with WebQA.
